@@ -1,0 +1,7 @@
+{
+  "diagnostic_loss": 2.3531494140625,
+  "quantum_gradient_norm": 0.04244166612625122,
+  "classical_gradient_norm": 0.2573180949037511,
+  "missing_quantum_gradients": 0,
+  "missing_classical_gradients": 0
+}
